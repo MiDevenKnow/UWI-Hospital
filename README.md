@@ -11,5 +11,12 @@ UWI-Hospital provides the following functionality:
 
 # Breakdown
 
-A compilation of 4 major sections completes the project:
+A compilation of 4 major objects completes the project:
  
+1. SNIDApp administrates the generation, modification and retrivial of citizen's data from various files.
+
+2. SNIDDb administrates the creation and/or modification of various citizen's files (e.g. Death Certificates).
+
+3. TextUI implements a text-based menu interface to the application.
+
+4. Gui implements a graphical-user interface with the sole purpose of locating citizen's information.
