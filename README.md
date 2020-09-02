@@ -8,3 +8,4 @@ Java project used to manage information on persons living in a country. This pro
 # Breakdown
 
 A compilation of 4 major sections completes the project:
+ 
