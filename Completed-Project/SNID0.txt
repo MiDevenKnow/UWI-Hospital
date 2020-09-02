@@ -1,0 +1,17 @@
+# Skip lines that start with a hash tag
+#  Sample data for the SNID application
+#  Comma separated values
+# id, first name, middle name, last name, gender,year of birth,life status,address1,address2,address3,address4.address5,mother id, father id
+1,Adam,,Gardener,M,1955,Deceased,1 Orchard Road,Eden,Kingston,Jamaica,,,
+2,Eve,,Gardener,F,1960,Alive,1 Orchard Road,Eden,Kingston,Jamaica,,,
+3,Cain,Adam,Gardener,M,1970,Alive,12 Apple Way,Caanan,Montego Bay,Jamaica,,2,1
+4,Abel,Adam,Gardener,M,1971,Deceased,43 Bamboo Avenue,Golden Spring,Kingston 9,Jamaica,,2,1
+5,Sonya,Eve,Gardener,F,1975,Alive,27 Salem Road,May Pen,Clarendon,Jamaica,,2,1
+5a.This one is an error,placed,here,to,frustrate,you,,,
+6,John,Antioch,Galilee,M,1950,Alive,67 Ardeduct Way,Nain,St. Elizabeth,Jamaica,,,
+7,Matthew,John,Cyprus,M,1962,Alive,9 Macedonia Place,Green Island,Hanover,Jamaica,,,
+8,Abdulla,,Mohamed,M,1965,Alive,123 Kings Street,Port of Spain,La Brae, Trinidad and Tobago,,,
+9,Miriam,Sarah,Schilling,F,1970,Alive,65 Middle Street,Kingstown,Barrie,St. Vincent and the Grenadines,,,
+10,Mary,Sean,Mohamed,F,1990,Alive,33 Seaward Boulevard,Castries,Battersea,St. Lucia,,9,8
+11,Ruth,Naomi,Schubert,F,1972,Alive,88 Curtley Ambrose Way,Perth Waca,St. Johns,Antigua,,,
+12,Martha,Norma,Leviathan,F,1970,Alive,88 Curtley Ambrose Way,Perth Waca,St. Johns,Antigua,,,
